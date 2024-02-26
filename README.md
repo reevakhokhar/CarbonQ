@@ -1,6 +1,12 @@
 # CarbonQ
 
-<img width="409" alt="Screenshot 2024-02-25 at 9 15 26 PM" src="https://github.com/reevakhokhar/CarbonQ/assets/65139073/af514352-8abb-45b5-a276-b6b7abb4b3f4">
-<img width="1414" alt="Screenshot 2024-02-25 at 9 16 08 PM" src="https://github.com/reevakhokhar/CarbonQ/assets/65139073/8587d583-09e5-421d-b569-01605e261c64">
-<img width="1008" alt="Screenshot 2024-02-25 at 11 12 39 PM" src="https://github.com/reevakhokhar/CarbonQ/assets/65139073/251ec503-535c-485f-b76d-b58982036757">
-<img width="1020" alt="Screenshot 2024-02-25 at 11 33 01 PM" src="https://github.com/reevakhokhar/CarbonQ/assets/65139073/a4b30849-9354-4fd0-b4e8-019ff5f6242d">
+<img width="507" alt="Screenshot 2024-02-25 at 11 43 53 PM" src="https://github.com/reevakhokhar/CarbonQ/assets/65139073/d63f9a8e-68dd-49f4-803b-53d050e2dac0">
+
+# Licenses
+- Emojis from https://getemoji.com/
+- Information about Carbon Emissions from https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions
+- Fun facts from the following sources:
+  - https://www.ecotricity.co.uk/our-news/2017/six-scary-facts-about-climate-change 
+  - https://www.conserve-energy-future.com/various-climate-change-facts-php.php
+  - https://www.americansecurityproject.org/
+  - https://www.ifaw.org/journal/animals-most-impacted-climate-change
